@@ -166,7 +166,8 @@ endmodule
 
 ```
 ## RTL View:
-![Screenshot 2024-05-16 112409](https://github.com/saiganesh2006/Hackathon-DE/assets/145742342/85cb48e8-e80c-4f73-a01a-cb5e216d9d2b)
+![image](https://github.com/MounishT/Hackathon-DE/assets/138955798/4ad1d2f7-41fa-47e5-9393-62138fefbab1)
+
 
 ## Result:
 Successfully developed the solution for Traffic Congestion in Metro Cities using verilog code.
